@@ -11,16 +11,16 @@
     "hierarchy",
     "white space"
   ],
-  "homepage": "https://github.com/roblafeve/nestle",
+  "homepage": "https://github.com/nestles/nestle",
   "bugs": {
-    "url": "https://github.com/roblafeve/nestle/issues"
+    "url": "https://github.com/nestles/nestle/issues"
   },
   "license": "MIT",
   "author": "Rob LaFeve",
   "main": "index.styl",
   "repository": {
     "type": "git",
-    "url": "git://github.com/roblafeve/nestle.git"
+    "url": "git://github.com/nestles/nestle.git"
   },
   "dependencies": {
     "gulp": "^3.8.11",
