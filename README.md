@@ -27,7 +27,7 @@ nestle(ratio, shift, steps, dev, bg)
 - `ratio` — sets ratio for white space scale (default `1.5`)
 - `shift` — adjusts ratio relative to base font size (default `-2.5`)
 - `steps` — number of steps in the scale (default `6`, like h1-h6)
-- `dev`   — when set to `true` elements are rendered with backgrounds to let you see what you're doing. This is especially helpful for becoming familiar with how (default `false`)
+- `dev`   — elements are rendered with backgrounds for easier configuration (default `false`)
 - `bg` — color used for `dev` option (default `teal`)
 
 ## Usage
@@ -108,6 +108,3 @@ Using @extend:
 article
   @extend .pad-1, .nest-1
 ```
-
-
-
